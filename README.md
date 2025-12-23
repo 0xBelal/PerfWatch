@@ -1,4 +1,4 @@
-# SimplePerformanceMonitor
+# PerfWatch
 
 
 Simple C++ project to monitor server metrics like CPU usage and request rate using a sliding window average.  
